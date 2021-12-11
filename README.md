@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CodeRTX.
-- 🌱 I’m currently learning HTML
+- 🌱 I’m currently learning HTML&CSS
 
 <!---
 CodeRTX/CodeRTX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
